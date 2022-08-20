@@ -12,6 +12,8 @@ main {
   position: absolute;
   width: 100%;
   z-index: 2;
+  opacity: 0;
+  transition: 1s;
 }
 
 #vanta {
